@@ -1,0 +1,20 @@
+{
+    "broadcast": {
+        "description": "广播功能配置",
+        "type": "object",
+        "items": {
+            "count": {
+                "description": "广播次数",
+                "type": "int",
+                "default": 5,
+                "hint": "设置广播消息的重复次数"
+            },
+            "interval": {
+                "description": "广播间隔(秒)",
+                "type": "float",
+                "default": 2.0,
+                "hint": "设置广播消息之间的间隔时间"
+            }
+        }
+    }
+}
