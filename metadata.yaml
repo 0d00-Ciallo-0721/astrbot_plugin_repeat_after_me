@@ -1,6 +1,6 @@
 name: astrbot_plugin_repeat_after_me
 desc: 根据用户消息，进行跟读
 help: 跟读插件 
-version: v1.0 
+version: v1.1
 author: 和泉智宏本人 
 repo: https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me
